@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.corrupt.*
+trails.json
+archive.json
+store.lock
+.env
